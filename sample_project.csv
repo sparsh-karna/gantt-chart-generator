@@ -1,0 +1,11 @@
+Task Name,Start Date,End Date,Category,Resource,Progress,Priority
+Project Planning,2024-01-01,2024-01-07,Planning,PM Team,100,High
+Requirements Gathering,2024-01-08,2024-01-21,Analysis,BA Team,100,High
+System Design,2024-01-22,2024-02-04,Design,Architects,85,High
+Database Setup,2024-02-05,2024-02-11,Development,DB Team,90,Medium
+Frontend Development,2024-02-12,2024-03-10,Development,Frontend Team,60,High
+Backend API Development,2024-02-12,2024-03-10,Development,Backend Team,70,High
+Integration Testing,2024-03-11,2024-03-24,Testing,QA Team,30,Medium
+User Acceptance Testing,2024-03-25,2024-03-31,Testing,QA Team,0,High
+Documentation,2024-04-01,2024-04-14,Documentation,Tech Writers,20,Low
+Deployment,2024-04-15,2024-04-21,Deployment,DevOps Team,0,Critical
